@@ -15,3 +15,5 @@ Faça um **fork** deste repositório e realize as seguintes atividades:
 - [ ] Implemente a função excluirUltimoElemento
 - [ ] Implemente a função excluirPrimeiroElemento
 - [ ] Implemente a função exibirReverso
+
+> Barbara Hellen da Silva Pereira > barbara.pereira10@fatec.sp.gov.br
