@@ -147,12 +147,12 @@ void inserirElemento()
 }
 
 
-// funções a serem implementadas no exericio
+// funï¿½ï¿½es a serem implementadas no exericio
 void exibirReverso()
 {
 	NO* element = ultimo;
 	while (element != NULL) {
-		cout << "AQYU NIKOLY" << element->valor << endl;
+		cout << element->valor << endl;
 		element = element->ant;
 	}
 }
@@ -181,7 +181,7 @@ void excluirUltimoElemento()
 				aux->prox = NULL;
 				ultimo = aux;
 				free(aux->prox);
-				cout << "!";
+				cout << "Excluido com sucesso!\n\n\n";
 		}
 	}
 
